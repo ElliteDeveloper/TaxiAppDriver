@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SkyStep_Driver.iml" filepath="$PROJECT_DIR$/.idea/modules/SkyStep_Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SkyStep_Driver.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SkyStep_Driver.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-671734669/SkyStep_Driver.expo-av.iml" filepath="$PROJECT_DIR$/.idea/modules/-671734669/SkyStep_Driver.expo-av.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1553786636/SkyStep_Driver.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-1553786636/SkyStep_Driver.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/619307000/SkyStep_Driver.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/619307000/SkyStep_Driver.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-999214204/SkyStep_Driver.expo-facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/-999214204/SkyStep_Driver.expo-facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-12491038/SkyStep_Driver.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-12491038/SkyStep_Driver.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1344902387/SkyStep_Driver.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-1344902387/SkyStep_Driver.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1269952637/SkyStep_Driver.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-1269952637/SkyStep_Driver.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-967361282/SkyStep_Driver.expo-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-967361282/SkyStep_Driver.expo-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/542053243/SkyStep_Driver.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/542053243/SkyStep_Driver.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/540544794/SkyStep_Driver.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/540544794/SkyStep_Driver.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/129948019/SkyStep_Driver.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/129948019/SkyStep_Driver.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/961426374/SkyStep_Driver.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/961426374/SkyStep_Driver.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1978355884/SkyStep_Driver.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1978355884/SkyStep_Driver.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-430927286/SkyStep_Driver.expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/-430927286/SkyStep_Driver.expo-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2093202188/SkyStep_Driver.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/2093202188/SkyStep_Driver.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1543735518/SkyStep_Driver.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1543735518/SkyStep_Driver.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-135763893/SkyStep_Driver.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-135763893/SkyStep_Driver.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1910554526/SkyStep_Driver.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/1910554526/SkyStep_Driver.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-429723845/SkyStep_Driver.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-429723845/SkyStep_Driver.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1288391688/SkyStep_Driver.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1288391688/SkyStep_Driver.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1016190465/SkyStep_Driver.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1016190465/SkyStep_Driver.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2093781500/SkyStep_Driver.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2093781500/SkyStep_Driver.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1250693/SkyStep_Driver.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1250693/SkyStep_Driver.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/88351864/SkyStep_Driver.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/88351864/SkyStep_Driver.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/745769604/SkyStep_Driver.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/745769604/SkyStep_Driver.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1870719754/SkyStep_Driver.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1870719754/SkyStep_Driver.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1539096546/SkyStep_Driver.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1539096546/SkyStep_Driver.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1048180108/SkyStep_Driver.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1048180108/SkyStep_Driver.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/112542857/SkyStep_Driver.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/112542857/SkyStep_Driver.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/73099827/SkyStep_Driver.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/73099827/SkyStep_Driver.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/317337588/SkyStep_Driver.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/317337588/SkyStep_Driver.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/986418666/SkyStep_Driver.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/986418666/SkyStep_Driver.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-108500457/SkyStep_Driver.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-108500457/SkyStep_Driver.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1127276156/SkyStep_Driver.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/1127276156/SkyStep_Driver.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1303339468/SkyStep_Driver.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1303339468/SkyStep_Driver.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-763349878/SkyStep_Driver.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-763349878/SkyStep_Driver.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>

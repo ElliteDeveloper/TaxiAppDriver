@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "973504609258",
+    "firebase_url": "https://skystep.firebaseio.com",
+    "project_id": "skystep",
+    "storage_bucket": "skystep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973504609258:android:b175345ddc092a58451093",
+        "android_client_info": {
+          "package_name": "com.customer.skystep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973504609258-e015be2ggfh90uanesbqtuil8injenrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customer.skystep",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUCLgIt20Kepjl8F9DV1UnPZYGUsOENA"
+        },
+        {
+          "current_key": "AIzaSyBhWt2jtNob1PATA71k4FdNnYHiHsBNgk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973504609258-so1vh038vm48kjk9pco1gm4dhvpnam16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973504609258-15d2qudohcvi1bedp358bk8m4lgvpttr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.customer.skystep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973504609258:android:7647cbcc56ab6211451093",
+        "android_client_info": {
+          "package_name": "com.driver.skystep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973504609258-0iotvuhh5aaimv8ms0gb41n11luvbr2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.skystep",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUCLgIt20Kepjl8F9DV1UnPZYGUsOENA"
+        },
+        {
+          "current_key": "AIzaSyBhWt2jtNob1PATA71k4FdNnYHiHsBNgk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973504609258-so1vh038vm48kjk9pco1gm4dhvpnam16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973504609258-15d2qudohcvi1bedp358bk8m4lgvpttr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.customer.skystep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
